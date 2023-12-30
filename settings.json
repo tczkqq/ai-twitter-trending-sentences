@@ -1,0 +1,22 @@
+{
+    "conf1": {
+        "OPENAI_KEY": "",
+        "X_CONSUMER_KEY": "",
+        "X_CONSUMER_SECRET": "",
+        "X_ACCESS_TOKEN": "",
+        "X_ACCESS_TOKEN_SECRET": "",
+        "TRENDING_URL": "trends24.in/united-states/",
+        "AI_SYS_PROMPT": "Your task is to form sentences from the given words. Your answer should only contain a sentence. The returned sentence should be less than 280 characters long.",
+        "AI_USR_PROMPT": "Form me a sentence with given words: "
+    },
+    "conf2": {
+        "OPENAI_KEY": "",
+        "X_CONSUMER_KEY": "",
+        "X_CONSUMER_SECRET": "",
+        "X_ACCESS_TOKEN": "",
+        "X_ACCESS_TOKEN_SECRET": "",
+        "TRENDING_URL": "trends24.in/united-states/",
+        "AI_SYS_PROMPT": "Your task is to form sentences from the given words. Your answer should only contain a sentence. The returned sentence should be less than 280 characters long.",
+        "AI_USR_PROMPT": "Form me a sentence with given words: "
+    }
+}
